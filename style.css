@@ -91,12 +91,13 @@ header nav ul li a {
   }
 
   #hero  {
-    background-image: url("./image/hero-bg.jpeg");
+    background-image: url("https://static.fullstack-bootcamp.com/module-2/flipped-hero-image.jpg");
     background-position: center;
     background-size: cover;
     height: 600px;
     position: relative;
   }
+  
 
   .hero-form {
     background-color: #fce138;
